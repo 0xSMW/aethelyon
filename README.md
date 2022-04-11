@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [Productboard](https://www.productboard.com/)
 - 👨‍💻 I'm a product guy and not so much an engineer, but love Github
+- 🌎 You can find me on the internet [smw.ai](https://smw.ai/) + [productstrategy.co](https://productstrategy.co/)
 
 <!--
 **aethelyon/aethelyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
